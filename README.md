@@ -2,13 +2,13 @@
 
 O.S.C.A.R. is a multi-platform system designed to improve classroom learning through real-time feedback, AI support, and easier communication between teachers and students.
 
-## 🎯 Project Overview
+## Project Overview
 
 O.S.C.A.R. provides a comprehensive solution for modern classrooms, enabling seamless interaction between teachers, students, and administrators. The platform facilitates real-time learning, AI-powered assistance, and efficient classroom management.
 
 ### Key Features
 
-#### 📱 Student Web App
+#### Student Web App
 - Join lessons with a one-time code
 - Ask questions to an AI assistant
 - Mark unclear points during lessons
@@ -16,7 +16,7 @@ O.S.C.A.R. provides a comprehensive solution for modern classrooms, enabling sea
 - Access screenshots and class recordings
 - Real-time lesson participation
 
-#### 👨‍🏫 Teacher Web App (Smart Board)
+#### Teacher Web App (Smart Board)
 - Start and manage lessons
 - Generate join codes for students
 - Capture screenshots during lessons
@@ -25,7 +25,7 @@ O.S.C.A.R. provides a comprehensive solution for modern classrooms, enabling sea
 - Receive AI suggestions about teaching pace and clarity
 - Monitor student engagement in real-time
 
-#### 👔 Admin System
+#### Admin System
 **Super Admins:**
 - Manage global platform settings
 - Configure system-wide policies
@@ -37,13 +37,13 @@ O.S.C.A.R. provides a comprehensive solution for modern classrooms, enabling sea
 - Set data retention policies (30–365 days)
 - View analytics and reports
 
-#### 📊 Team Profile
+#### Team Profile
 - Project summary and overview
 - Team information and statistics
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 OSCAR/
@@ -80,7 +80,7 @@ The application uses Next.js App Router with feature-based routing:
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 ### Frontend Framework
 
@@ -162,7 +162,7 @@ The application uses Next.js App Router with feature-based routing:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -242,7 +242,7 @@ In the `oscar-web-app` directory, you can run:
 
 ---
 
-## 🤝 Git Collaboration Guide
+## Git Collaboration Guide
 
 ### Basic Git Workflow
 
@@ -297,11 +297,11 @@ git commit -m "Add student login functionality"
 ```
 
 **Good commit messages:**
-- ✅ "Add student quiz component"
-- ✅ "Fix teacher dashboard loading issue"
-- ✅ "Update admin user management UI"
-- ❌ "fix" (too vague)
-- ❌ "changes" (not descriptive)
+- "Add student quiz component"
+- "Fix teacher dashboard loading issue"
+- "Update admin user management UI"
+- "fix" (too vague)
+- "changes" (not descriptive)
 
 #### 6. Push Your Branch
 
@@ -362,7 +362,7 @@ git log
 
 ---
 
-## 📁 Understanding the Code Structure
+## Understanding the Code Structure
 
 ### For Beginners
 
@@ -391,7 +391,7 @@ A component is a reusable piece of UI. For example, a "Button" component can be 
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Problem: `npm install` fails
 
@@ -427,7 +427,7 @@ npm run dev -- -p 3001
 
 ---
 
-## 📚 Learning Resources
+## Learning Resources
 
 ### For Complete Beginners
 
@@ -455,7 +455,7 @@ npm run dev -- -p 3001
 
 ---
 
-## 🎓 Next Steps
+## Next Steps
 
 1. **Explore the codebase** - Look at existing components to understand patterns
 2. **Start small** - Make small changes first to get comfortable
@@ -465,7 +465,7 @@ npm run dev -- -p 3001
 
 ---
 
-## 📝 Notes
+## Notes
 
 - The **teacher-desktop** app is currently implemented as a web app route (`/teacher`) in Next.js, not as a separate Electron application
 - Backend services will be implemented within Next.js API routes (`/app/api/`)
@@ -473,7 +473,7 @@ npm run dev -- -p 3001
 
 ---
 
-## 🤔 Need Help?
+## Need Help?
 
 If you're stuck:
 1. Check the error message in your terminal or browser console
@@ -483,5 +483,5 @@ If you're stuck:
 
 ---
 
-**Happy Coding! 🚀**
+**Happy Coding!**
 
